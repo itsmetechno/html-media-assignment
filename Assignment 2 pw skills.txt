@@ -1,0 +1,41 @@
+qs 1.
+Output is:0
+
+qs 2.
+1 1
+
+qs 3.
+2
+
+qs 4.
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int r,h;
+    cin>>r>>h;
+float v = 3.1416*r*r*h;
+
+cout<<v<<endl;
+
+
+}
+
+qs 5
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    char a,b;
+    cin>>a>>b;
+    
+    int dif = (int)(a-b);
+    cout<<dif<<endl;
+}
+
+
+qs 6:
+13
+
